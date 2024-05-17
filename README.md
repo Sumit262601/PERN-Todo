@@ -26,7 +26,7 @@ Perntodo is a simple web application for managing todos, built using the PERN (P
 	- Import the database schema from `backend/database/schema.sql`.
 
 5. Configure environment variables:
-	- Create a .env file in the backend directory.
+   	- Create db.js in your project's server folder then follow the steps below.
 	```
  	user: "your database_user name",
  	password: "your database_password",
@@ -38,8 +38,8 @@ Perntodo is a simple web application for managing todos, built using the PERN (P
 	- Start the frontend development server: `cd frontend && npm start`
 	- Open your browser and navigate to `http://localhost:5000` to access the Perntodo application.
 
-6. Usage
+7. Usage
    - Upon accessing the application, you'll receive a list of existing todo items.
    - You can create a new todo item by clicking the "Add Todo" button and completing the form.
-   - To edit or delete an existing todo item, simply click on the respective buttons next to the todo item.
+   - To edit or delete an existing todo item, click the respective buttons next to the todo item.
    - Todos can also be marked as completed by checking the checkbox next to each item.

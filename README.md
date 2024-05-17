@@ -2,9 +2,10 @@
 
 Perntodo is a simple web application for managing todos, built using the PERN (PostgreSQL, Express.js, React.js, Node.js) stack. This application allows users to create, read, update, and delete todo items.
 
-![Screenshot 2024-05-15 114517](https://github.com/Sumit262601/PERN_TODO/assets/127303989/95192c56-fde7-4326-a5ea-019f47c0d411)
+![Screenshot 2024-05-17 144124](https://github.com/Sumit262601/pern_todo/assets/127303989/02b273f8-0052-489a-8091-07766b90cb0d)
 
 ## Technologies Used
+
 
 - **PostgreSQL**: Database management system used for storing todo data.
 - **Express.js**: Backend web application framework for Node.js used for handling HTTP requests.
